@@ -41,7 +41,7 @@
 ・予測と正解を誤差関数に入力する事で誤差を得る。
 ・回帰は二乗誤差、分類はクロスエントロピー誤差が用いられる。
   
-実装（1_1_forward_propagation.ipynb / 1_2_back_propagation.ipynb）  
+実装演習（1_1_forward_propagation.ipynb / 1_2_back_propagation.ipynb）  
 ・ライブラリーを使わずに、偏微分されたパラメータの勾配の計算を実装した。
 ・学習率を変えてパラメーターの変化を観測した。  
   
